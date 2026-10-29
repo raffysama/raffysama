@@ -32,8 +32,6 @@ Portfolio — My portfolio featuring selected projects and development work.
 
 📫 Connect with Me
 
-📫 Connect with Me
-
 💼 LinkedIn: linkedin.com/in/raffy-gumapo
 
 🐙 GitHub: github.com/raffysama
